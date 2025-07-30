@@ -1,6 +1,6 @@
-# Shallow Q-Network for Tic-Tac-Toe
+# Deep Q-Network for Tic-Tac-Toe
 
-This project implements a **Shallow Q-Network (SQN)** for playing the classic game **Tic-Tac-Toe** using **Reinforcement Learning (RL)**. The agent learns optimal strategies through trial and error by interacting with the game environment and adjusting its behavior based on rewards.
+This project implements a **Deep Q-Network (DQN)** for playing the classic game **Tic-Tac-Toe** using **Reinforcement Learning (RL)**. The agent learns optimal strategies through trial and error by interacting with the game environment and adjusting its behavior based on rewards.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -12,7 +12,7 @@ This project implements a **Shallow Q-Network (SQN)** for playing the classic ga
 - [License](#license)
 
 ## Project Overview
-This project demonstrates the use of **Shallow Q-Networks** to train an agent to play Tic-Tac-Toe. The agent uses **Q-learning**, a type of reinforcement learning, to decide the best actions at each step of the game. The neural network, which is shallow compared to more complex Deep Q-Networks (DQNs), helps the agent learn from the experience replay buffer and improve its performance over time.
+This project demonstrates the use of **Deep Q-Networks** to train an agent to play Tic-Tac-Toe. The agent uses **Q-learning**, a type of reinforcement learning, to decide the best actions at each step of the game. The neural network, helps the agent learn from the experience replay buffer and improve its performance over time.
 
 ## Requirements
 To run the project, you'll need the following:
